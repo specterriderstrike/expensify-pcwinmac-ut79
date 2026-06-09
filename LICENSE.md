@@ -1,4 +1,4 @@
-# 
+# 免费 Expensify 扩展 Mac OS版 | 原生 Expensify 扩展 PC Windows版。集成 预算工具 和 W-2和1099表格，跨平台性能最大化。
 
 
 
